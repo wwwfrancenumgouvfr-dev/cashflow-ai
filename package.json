@@ -11,7 +11,5 @@
   },
   "dependencies": {
     "vite": "latest"
-  },
-  "devDependencies": {}
+  }
 }
-
